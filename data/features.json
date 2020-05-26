@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Free Consultation",
+    "description": "New clients recieve an obligation free consultation.",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Qualified Actuaries and Data Scientist",
+    "description": "All members of our team are qualified actuaries.",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Enterprise Risk Management",
+    "description": "We help you develop a robust risk framework.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+]
