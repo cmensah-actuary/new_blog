@@ -4,10 +4,10 @@ draft: false
 image: images/team/peter-van-eijk-711986-unsplash.jpg
 jobtitle: Director
 linkedinurl: https://www.linkedin.com/
-title: Peter Van Eijk
+title: Clifford 
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Clifford is a qualified actuary, with work experience spannning across different industries. This includes the financial, Non financial and the manufactoring
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+He brings value adding to the table. 
